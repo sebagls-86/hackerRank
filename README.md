@@ -1,2 +1,2 @@
 # hackerRank
-Solved Hacker Rank Problems
+Solved Hacker Rank Challenges
