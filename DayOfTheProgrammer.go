@@ -4,7 +4,7 @@ import "strconv"
 
 func dayOfProgrammer(year int32) string {
 	// Write your code here
-	finalDay := ""
+	var finalDay string
 
 	s := strconv.FormatInt(int64(year), 10)
 
